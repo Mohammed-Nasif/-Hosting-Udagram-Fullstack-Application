@@ -34,9 +34,9 @@ This project aims to give you a real-world scenario in which you would Use The A
 [(Back to top)](#table-of-contents)
 
 - The documentation folder attached in the project folder includes separate pages on different topics:
-    1 - Infrastructure description.
-    2 - App dependencies.
-    3 - Pipeline process.
+     1. Infrastructure description.
+     2. App dependencies.
+     3. Pipeline process.
     
 - This project require some prequesites and dependenscies to be installed.
 
@@ -77,9 +77,9 @@ Provision the necessary AWS services needed for running the application:
 1. From the root of the repo, navigate udagram-api folder `cd starter/udagram-api` to install the node_modules `npm install`. After installation is done start the api in dev mode with `npm run dev`.
 1. Without closing the terminal in step 1, navigate to the udagram-frontend `cd starter/udagram-frontend` to intall the node_modules `npm install`. After installation is done start the api in dev mode with `npm run start`.
   
-  ####Ports:
-             - Server port 3000.
-             - Database port 5432.
+####Ports:
+    • Server port 3000.
+    • Database port 5432.
 ---
 ## Testing
 
